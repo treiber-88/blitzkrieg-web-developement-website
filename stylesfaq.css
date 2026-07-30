@@ -1,0 +1,18 @@
+.questions {
+    display: flex;
+    padding: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    flex-direction: column;
+}
+
+.question {
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.answer {
+    display: flex;
+    font-size: 18px;
+}
