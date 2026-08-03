@@ -111,6 +111,7 @@ body {
 .altj {
     display: flex;
     padding: 0;
+    color: black
 }
 
 #sidelinks {
@@ -119,6 +120,11 @@ body {
     gap: 10px;
     padding: 8px;
     padding-top: 0px;
+}
+
+#helpful {
+    display: flex;
+    color:blue
 }
 
 
