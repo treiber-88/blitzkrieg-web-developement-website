@@ -53,7 +53,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color:rgb(3, 73, 15);
-    margin-left: 1350px;
+    margin-left: 92%;
     flex-direction: column;
     justify-content: flex-start;
     height: 100%; /* Full-height: remove this if you want "auto" height */
